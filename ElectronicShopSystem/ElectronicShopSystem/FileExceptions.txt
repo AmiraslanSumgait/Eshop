@@ -1,0 +1,12 @@
+Text: The categoryId must be greater than 0.
+Line: 54
+Source: C:\Users\Amiraslan\source\repos\ElectronicShopSystem\ElectronicShopSystem\Product.h
+Date and Time: Mon May 31 13:37:16 2021
+Text: The simtype is empty
+Line: 51
+Source: C:\Users\Amiraslan\source\repos\ElectronicShopSystem\ElectronicShopSystem\Phone.h
+Date and Time: Mon May 31 13:37:16 2021
+Text: The surroundsound is empty
+Line: 38
+Source: C:\Users\Amiraslan\source\repos\ElectronicShopSystem\ElectronicShopSystem\Headphone.h
+Date and Time: Mon May 31 13:37:16 2021
